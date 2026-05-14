@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanmunoz25.github.io/reference-izv39c/sitemap.xml
